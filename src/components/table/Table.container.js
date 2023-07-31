@@ -8,7 +8,6 @@ export class TableContainer extends PureComponent {
     dropDown: 10,
     currentPage: 1,
     nPage: [],
-    // isSort: false,
   };
   componentDidMount() {
     this.table();

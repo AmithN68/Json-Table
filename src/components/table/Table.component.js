@@ -9,7 +9,6 @@ class TableComponent extends PureComponent {
       changePage,
       handleChange,
       searchValue,
-      isSort,
       handleDropDown,
       dropDown,
       currentPage,
