@@ -59,6 +59,9 @@ section {
       tr:nth-child(even) {
         background-color: #262a2e;
       }
+      tr:hover{
+        background-color: #262a2e;
+      }
       .action {
         display: flex;
         flex-direction: column;
